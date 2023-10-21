@@ -4,3 +4,4 @@
 # github vs code
 # konfliktus vs code ujra
 #tesztkörnyezet
+# teszt vs code
