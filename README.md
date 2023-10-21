@@ -11,3 +11,6 @@
 # javítani valókat találtam a 3. sorban
 # forkolt tartalom 
 # kulcsarmarianna
+tartalom Vig Gábor
+# Rita RögLoránd
+
