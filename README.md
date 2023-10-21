@@ -9,3 +9,4 @@
 #pallas
 #gyakorlás
 # javítani valókat találtam a 3. sorban
+#fork
