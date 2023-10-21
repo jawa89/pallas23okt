@@ -10,4 +10,6 @@
 #gyakorlás
 # javítani valókat találtam a 3. sorban
 # forkolt tartalom 
+# Rita
 # RögLoránd
+
