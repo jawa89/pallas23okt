@@ -11,3 +11,7 @@
 # javítani valókat találtam a 3. sorban
 # forkolt tartalom 
 # Vig Gábor
+# Rita
+# RögLoránd
+
+
