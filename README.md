@@ -6,3 +6,4 @@
 #tesztkörnyezet
 # teszt vs code
 #próbabranch 12
+#pallas
