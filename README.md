@@ -10,4 +10,8 @@
 #gyakorlás
 # javítani valókat találtam a 3. sorban
 # forkolt tartalom 
-tartalom
+tartalom Vig Gábor
+# Rita RögLoránd
+
+
+
